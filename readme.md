@@ -1,4 +1,4 @@
-# Arquitectyra de prueba para desarrollo de proyecto.
+# Arquitectyra de prueba de 4 capas para desarrollo de proyecto.
 
 ## TODO
 

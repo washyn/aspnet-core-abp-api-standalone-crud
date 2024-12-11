@@ -4,11 +4,11 @@
     <!-- add only if lang version is greater than 9 -->
     <!-- <ImplicitUsings>enable</ImplicitUsings> -->
 
-    <LangVersion>9</LangVersion>
+    <!-- <LangVersion>9</LangVersion> -->
 
-    <AbpVersion>6.0.*</AbpVersion>
-    <FrameworkVersion>net6.0</FrameworkVersion>
-    <AspNetFrameworkPackageVersion>6.0.*</AspNetFrameworkPackageVersion>
+    <AbpVersion>7.2.2</AbpVersion>
+    <FrameworkVersion>net7.0</FrameworkVersion>
+    <AspNetFrameworkPackageVersion>7.0.*</AspNetFrameworkPackageVersion>
 
 
     <!-- Microsoft.NET.Test.Sdk https://www.nuget.org/packages/Microsoft.NET.Test.Sdk -->
